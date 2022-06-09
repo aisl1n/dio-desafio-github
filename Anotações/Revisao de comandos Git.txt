@@ -1,0 +1,5 @@
+git init - inicia o git dentro de uma pasta.
+git status - verifica o status atual dos arquivos da pasta.
+git add . - adiciona todos os arquivos, para a branch.
+git commit -m "comentário" - realiza o envio para a versão.
+git push origin main - envia o commit para o repositório do github.
